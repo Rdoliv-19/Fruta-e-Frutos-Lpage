@@ -15,38 +15,21 @@ Maybe you can mention me or this repo in the acknowledgements too
     Bem vindo ao meu projeto!! 
   </p>
   
-  <p><a href:"https://fruta-e-frutos-lpage.vercel.app/">Link do projeto</a></p>
-  
-  
-
-    
+      
 </div>
   
   
 ### Sobre
   Projeto desenvolvido para praticar a aplicação do Bootstraper 4 a partir do curso proposto na formação de Front-end da Alura. 
-  A proposta é a criação de uma Landing-Page de um site de receitas culinarias responsiva para mobile. Ao clicar no link de contato, é aberto o formulário para envio das informações.
+  A proposta é a criação de uma Landing-Page de um site de receitas culinárias responsiva para mobile. Ao clicar no link de contato, é aberto o formulário para envio das informações.
   Apenas o Layout da página foi proposto,
   aplicação do bootstraper, carrocel de imagens, navbar, cards e Grid para posicionamentos dos cards foi desenvolvido desde o início seguindo 
   a documentação do Bootstraper.
 <br />
-
-<!-- Índice -->
-# :notebook_with_decorative_cover: Table of Contents
-
-- 
-  * [Screenshots](#camera-screenshots)
-  * [Tech Stack](#space_invader-tech-stack)
-  
-
-
-
-- [Contact](#handshake-contact)
-- [Acknowledgements](#gem-acknowledgements)
   
 
 <!-- About the Project -->
-## :star2: About the Project
+## :star2:
 
 
 <!-- Screenshots -->
@@ -71,8 +54,6 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 
 <!-- TechStack -->
-### :space_invader: Tech Stack
-
 
   <ul>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a></li>
@@ -82,7 +63,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   </ul>
 
 <!-- Contato -->
-## :handshake: Contact
+## :handshake: Contato
 
 <p>Email -  digo.s.oliv@gmail.com</p>
 
