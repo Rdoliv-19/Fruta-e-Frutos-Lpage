@@ -23,7 +23,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 ### Sobre
   Projeto desenvolvido para praticar a aplicação do Bootstraper 4 a partir do curso proposto na formação de Front-end da Alura. 
-  A proposta é a criação de uma Landing-Page de um site de receitas culinarias responsiva para mobile.
+  A proposta é a criação de uma Landing-Page de um site de receitas culinarias responsiva para mobile. Ao clicar no link de contato, é aberto o formulário para envio das informações.
   Apenas o Layout da página foi proposto,
   aplicação do bootstraper, carrocel de imagens, navbar, cards e Grid para posicionamentos dos cards foi desenvolvido desde o início seguindo 
   a documentação do Bootstraper.
@@ -55,7 +55,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/100332887/169192312-48249123-9c5b-4704-ac3a-f82bad7fa06d.png" alt="screenshot" />
+  <img src="https://user-images.githubusercontent.com/100332887/169192312-48249123-9c5b-4704-ac3a-f82bad7fa06d.png alt="screenshot"/>
   
   <img src="https://user-images.githubusercontent.com/100332887/169192347-477da674-cb14-4f72-a6e0-f424a9bb6780.png" alt="screenshot" />
   
