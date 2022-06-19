@@ -25,6 +25,8 @@ Maybe you can mention me or this repo in the acknowledgements too
   Apenas o Layout da página foi proposto,
   aplicação do bootstraper, carrocel de imagens, navbar, cards e Grid para posicionamentos dos cards foi desenvolvido desde o início seguindo 
   a documentação do Bootstraper.
+  
+  <a href="https://fruta-e-frutos-lpage.vercel.app/">Link do projeto</a>
 <br />
   
 
