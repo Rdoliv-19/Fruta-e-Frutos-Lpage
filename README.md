@@ -15,6 +15,8 @@ Maybe you can mention me or this repo in the acknowledgements too
     Bem vindo ao meu projeto!! 
   </p>
   
+  <p><a href:"https://fruta-e-frutos-lpage.vercel.app/">Link do projeto</a></p>
+  
   
 
     
@@ -29,18 +31,15 @@ Maybe you can mention me or this repo in the acknowledgements too
   a documentação do Bootstraper.
 <br />
 
-<!-- Table of Contents -->
+<!-- Índice -->
 # :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
+- 
   * [Screenshots](#camera-screenshots)
   * [Tech Stack](#space_invader-tech-stack)
-  * [Features](#dart-features)
+  
 
-- [Getting Started](#getting-started)
-  * [Run Locally](#running-run-locally)
-    * [Run API Locally](#1-running-the-api-locally)
-    * [Run the project](#2-running-the-project)
+
 
 - [Contact](#handshake-contact)
 - [Acknowledgements](#gem-acknowledgements)
@@ -82,85 +81,12 @@ Maybe you can mention me or this repo in the acknowledgements too
    
   </ul>
 
-<!-- Getting Started -->
-## 	:toolbox: Getting Started
-
-<!-- Prerequisites -->
-### :bangbang: Prerequisites
-
-This project uses npm as package manager
-
-  
-<!-- Run Locally -->
-### :running: Run Locally
-
-#### 1-Running the API Locally
-  
-  Clone the API
-  
-```bash
-  git clone https://gitlab.com/bossabox/challenge-fake-api.git
-```
-  
-Go to the API directory
-
-```bash
-  cd json-server
-```  
-Install dependencies
-
-```bash
-  npm install
-```
-  
-Run the API (It will open at ```http://localhost:3000```)  
-```bash  
-  npx json-server db.json
-```
-  
- 
-#### 2-Running the project
-  
-Clone the project
-
-```bash
-  git clone https://github.com/carvalhodanielg/vuttr.git
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm start
-```
-  
-Allow it to run in another port, ex.: ``` http://localhost:3001 ```
-
-
-  
-  
-<!-- Contact -->
+<!-- Contato -->
 ## :handshake: Contact
 
-Daniel Carvalho - [Linkedin](https://www.linkedin.com/in/carvalhodanielg/) - carvalhodanielg@gmail.com
+<p>Email -  digo.s.oliv@gmail.com</p>
 
-Project Link: [GitHub](https://github.com/carvalhodanielg/countries)
+<p>Linkedin: (https://www.linkedin.com/in/rodrigo-dev/)</p>
 
+<p>Link do projeto: (https://fruta-e-frutos-lpage.vercel.app/)</p>
 
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-  
-Found challenges like this one at Felipe Fialho's repository:
-  
-``` htps://github.com/felipefialho/frontend-challenges ```
