@@ -55,19 +55,19 @@ Maybe you can mention me or this repo in the acknowledgements too
 
 
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/100332887/169192312-48249123-9c5b-4704-ac3a-f82bad7fa06d.png alt="screenshot"/>
+  <img src="https://raw.githubusercontent.com/Rdoliv-19/fruta-e-frutos-lpage/master/src/Cabe%C3%A7alho.JPG" alt="screenshot"/>
   
-  <img src="https://user-images.githubusercontent.com/100332887/169192347-477da674-cb14-4f72-a6e0-f424a9bb6780.png" alt="screenshot" />
+  <img src="https://raw.githubusercontent.com/Rdoliv-19/fruta-e-frutos-lpage/master/src/In%C3%ADcio%20conte%C3%BAdo%20principal.JPG" alt="screenshot" />
   
-  <img src="https://user-images.githubusercontent.com/100332887/169192446-f4f92dcf-3a18-4514-9855-33f5348c4679.png" alt="screenshot" />
+  <img src="https://raw.githubusercontent.com/Rdoliv-19/fruta-e-frutos-lpage/master/src/Receitas.JPG" alt="screenshot" />
   
-  <img src="https://user-images.githubusercontent.com/100332887/169192471-5611a2e7-f9b9-44e7-9fe6-150221998531.png" alt="screenshot" />
+  <img src="https://raw.githubusercontent.com/Rdoliv-19/fruta-e-frutos-lpage/master/src/Formul%C3%A1rio%20contato.JPG" alt="screenshot" />
   
-  <img src="https://user-images.githubusercontent.com/100332887/169192536-73347496-c5de-4ab4-95b2-6a630012bc5f.png" alt="screenshot" />
+  <img src="https://raw.githubusercontent.com/Rdoliv-19/fruta-e-frutos-lpage/master/src/Responsivo%20in%C3%ADcio.JPG" alt="screenshot" />
   
-  <img src="https://user-images.githubusercontent.com/100332887/169192559-5278f450-8882-4d7c-9624-9dbcf21036fc.png" alt="screenshot" />
+  <img src="https://raw.githubusercontent.com/Rdoliv-19/fruta-e-frutos-lpage/master/src/Responsivo%20conteudo%20principal.JPG" alt="screenshot" />
   
-  <img src="https://user-images.githubusercontent.com/100332887/169192593-00d4795a-a98a-4ce4-b7c7-9efdcd52d887.png" alt="screenshot" />
+  <img src="https://raw.githubusercontent.com/Rdoliv-19/fruta-e-frutos-lpage/master/src/Formul%C3%A1rio%20responsivo.JPG" alt="screenshot" />
 </div>
 
 
@@ -78,33 +78,9 @@ Maybe you can mention me or this repo in the acknowledgements too
   <ul>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a></li>
     <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS/">CSS</a></li>
-    <li><a href="https://www.javascript.com/">JavaScript</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://styled-components.com/">styled-components</a></li>
-    <li><a href="https://github.com/typicode/json-server">Fake API</a></li>
+    <li><a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/">Bootstrap</a></li>
+   
   </ul>
-
-
-
-
-<!-- Features -->
-### :dart: Features
-
-- Insert new tools, whith his respective description, links and related tags.
-- Search globally
-- Search by tags
-- Remove tools
-  
-  
-  
-<!-- API's used -->
-### :dart: API's
-
-  <ul>
-    <li><a href="https://gitlab.com/bossabox/challenge-fake-api/tree/master">VUTTR fake API </a></li>
-  </ul>
-
-
 
 <!-- Getting Started -->
 ## 	:toolbox: Getting Started
