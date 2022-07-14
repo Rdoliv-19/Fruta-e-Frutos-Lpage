@@ -1,17 +1,21 @@
-  Projeto desenvolvido para praticar a aplicação do Bootstraper 4 a partir do curso proposto na formação de Front-end da Alura. 
-  A proposta é a criação de uma Landing-Page de um site de receitas culinárias responsiva para mobile. Ao clicar no link de contato, é aberto o formulário para envio das informações.
-  Apenas o Layout da página foi proposto,
-  aplicação do bootstraper, carrocel de imagens, navbar, cards e Grid para posicionamentos dos cards foi desenvolvido desde o início seguindo 
-  a documentação do Bootstraper.
-
-<div align="center">
+ <div align="center">
 <!--   <img src="public/red-flag.png" alt="logo" width="200" height="auto" /> -->
   <h1>Fruta e Frutos - Landing Page</h1>
   
   <p>
     Bem vindo ao meu projeto!! 
   </p>
-</div>
+</div> 
+  
+  ### Sobre
+  
+  Projeto desenvolvido para praticar a aplicação do Bootstraper 4 a partir do curso proposto na formação de Front-end da Alura. 
+  A proposta é a criação de uma Landing-Page de um site de receitas culinárias responsiva para mobile. Ao clicar no link de contato, é aberto o formulário para envio das informações.
+  Apenas o Layout da página foi proposto,
+  aplicação do bootstraper, carrocel de imagens, navbar, cards e Grid para posicionamentos dos cards foi desenvolvido desde o início seguindo 
+  a documentação do Bootstraper.
+
+
     
 
   
